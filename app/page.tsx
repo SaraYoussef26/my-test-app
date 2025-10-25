@@ -9,13 +9,13 @@ export default function Home() {
       <WelcomeMessage />
 
       <EmployeeCard
-        name="Alice Johnson"
-        role="Sales Manager"
-        email="test@test.com"
+        name="Emily Andrew"
+        role="Marketing Manager"
+        email="Emily.andrew@gmial.com"
       />
 
       <Counter />
-      <Counter />
+      <Counter initialCount={5} initialStep={2}/>
     </main>
   );
 }
