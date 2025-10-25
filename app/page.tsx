@@ -11,7 +11,7 @@ export default function Home() {
       <EmployeeCard
         name="Emily Andrew"
         role="Marketing Manager"
-        email="Emily.andrew@gmial.com"
+        email="Emily.andrew@gmail.com"
       />
 
       <Counter />

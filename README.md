@@ -1,12 +1,12 @@
 This is a Next.js "Button Counter" project.
 
-# Description:
+# Description
 This is a small Next.js app that displays an Employee Dashboard with button counter components. It shows a welcome message, an employee card, and counters.
 
-# How to Run locally:
+# How to Run locally
 To run the project locally, we need to install react, next.js, and typescript. Then run "npm run dev" on terminal. And lastly, we open the broswer to go to http://localhost:3000 to see the app.
 
-# How to Build:
+# How to Build
 We start by building the project by running "npm run build". Then start the app by running "npm start". 
 
 # Features implemented 
